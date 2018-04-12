@@ -42,7 +42,7 @@ ContinuationIndentWidth: 4
 #--------------------------code block------------------
 
 #括号的断行模式
-BreakBeforeBraces: WebKit
+#BreakBeforeBraces: WebKit
 
 #是否在容器字面量(@[@"1",@"2"])中插入空格
 SpacesInContainerLiterals: true
@@ -162,8 +162,6 @@ ObjCSpaceAfterProperty: true
 
 #是否需要在协议名后加上空格
 ObjCSpaceBeforeProtocolList: true
-
-
 
 #----------------------------other-------------------
 
